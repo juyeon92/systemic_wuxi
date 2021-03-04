@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'diyfont';
+    src: url('../fonts/diyfont.eot?45835063');
+    src: url('../fonts/diyfont.eot?45835063#iefix') format('embedded-opentype'),
+    url('../fonts/diyfont.woff?45835063') format('woff'),
+    url('../fonts/diyfont.ttf?45835063') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.diy{display:inline-block;font:normal normal normal 14px/1 diyfont;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.icon-tent:before { content: '\e805'; } /* '' */
+.icon-mems:before { content: '\e806'; } /* '' */
+.icon-cis:before { content: '\e811'; } /* '' */
+.icon-mixedsignal:before { content: '\e812'; } /* '' */
+.icon-memory:before { content: '\e813'; } /* '' */
+.icon-www:before { content: '\e814'; } /* '' */
+.icon-bcdmos:before { content: '\e815'; } /* '' */
+.icon-hvcmos:before { content: '\e816'; } /* '' */
+.icon-portal:before { content: '\e818'; } /* '' */
+.icon-refresh:before { content: '\e819'; } /* '' */
+.icon-theme:before { content: '\e81a'; } /* '' */
+.icon-condo:before { content: '\e81b'; } /* '' */
+.icon-hotel:before { content: '\e81c'; } /* '' */
