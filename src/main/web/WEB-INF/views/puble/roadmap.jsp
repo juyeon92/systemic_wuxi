@@ -35,7 +35,7 @@
 
            <div class="row pb-3">
                <div class="col-lg-3 col-sm-6"><div class="box-bc-or cl-wh text-center pt-3 pb-3">Developing</div></div>
-               <div class="col-lg-3 col-sm-6"><div class="box-bc-bg cl-wh text-center pt-3 pb-3">Future Plan</div></div>
+               <div class="col-lg-3 col-sm-6"><div class="box-bc-gr cl-wh text-center pt-3 pb-3">Future Plan</div></div>
            </div>
 
            <div class="animated fadeInDown delay-01" data-animation="fadeInDown" data-animation-delay="01">
@@ -47,46 +47,41 @@
                     <col style="width: 5%">
                     <col style="width: 5%">
                     <col style="width: 5%">
-                    <col style="width: 5%">
-                    <col style="width: 5%">
-                    <col style="width: 5%">
-                    <col style="width: 5%">
-                    <col style="width: 5%">
-                    <col style="width: 5%">
-                    <col style="width: 5%">
-                    <col style="width: 5%">
+                    <col style="width: 1%">
+                    <col style="width: 1%">
+                    <col style="width: 1%">
+                    <col style="width: 1%">
+                    <col style="width: 9%">
+                    <col style="width: 9%">
+                    <col style="width: 9%">
+                    <col style="width: 9%">
                 </colgroup>
                <tbody>
                <tr>
                    <th></th>
                    <th>Available</th>
-                   <th colspan="4">2019</th>
                    <th colspan="4">2020</th>
                    <th colspan="4">2021</th>
+                   <th colspan="4">2022</th>
                </tr>
                <!--HV CMOS-->
                <tr>
-                   <th rowspan="2">HV CMOS</th>
-                   <td rowspan="2"></td>
-                   <!--2019-->
-                   <td colspan="4" class="td-bg-og">
-                       <div class="box-bc-r pt-1 p-0 pb-1">
-                           <p class="p-0 m-0 cl-wh">HD180IHL5<br>(1.8V/18V)</p>
+                   <th>HV CMOS</th>
+                   <td>
+                       <div class="row p-0">
+                           <div class="col-4 p-0">
+                           </div>
+                           <div class="col-4 p-0">
+                           </div>
+                           <div class="col-4 pr-1 pl-1">
+                               <div class="box-bc-r p-0">
+                                   <p class="cl-wh p-0 pt-1">HD180IHL5<br>
+                                       (1.8V/18V)
+                                   </p>
+                               </div>
+                           </div>
                        </div>
                    </td>
-                   <!--2020-->
-                   <td class="td-bg-rd"></td>
-                   <td class="td-bg-rd"></td>
-                   <td class="td-bg-rd"></td>
-                   <td class="td-bg-rd"></td>
-                   <!--2021-->
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-               </tr>
-               <tr>
-
                    <!--2019-->
                    <td class="td-bg-og"></td>
                    <td class="td-bg-og"></td>
@@ -101,17 +96,20 @@
                    <!--2020-->
                    <td colspan="3" class="pl-0 td-bg-rd">
                        <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="p-0 m-0 cl-wh text-left pl-4">HD180IEL6
+                           <p class="p-0 m-0 cl-wh text-left pl-2">HD180IEL6
                                <br>(1.8V/18V)</p>
                        </div>
                    </td>
                    <td class="td-bg-rd"></td>
                    <!--2021-->
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
+                   <td class="td-bg-og" colspan="4">
+                       <div class="box-bc-gr pt-1 p-0 pb-1">
+                           <p class="p-0 m-0 cl-wh pl-4">FEOL 110nm
+                               <br>(1.2V/18V)</p>
+                       </div>
+                   </td>
                </tr>
+
                <!--HV CMOS/end-->
 
                <!--BCDMOS-->
@@ -121,92 +119,95 @@
                        <div class="row p-0">
                            <div class="col-4 pr-1 pl-1">
                                <div class="box-bc-r p-0 pt-1">
-                                   <p class="cl-wh p-0">180nm_G<br>
-                                       (1.8/5/~60V)</p>
+                                   <p class="cl-wh p-0">HB180ELL<br>
+                                       (1.8/5/~35V)
+                                   </p>
                                </div>
                            </div>
                            <div class="col-4 p-0">
                                <div class="box-bc-r p-0 pt-1">
-                                   <p class="cl-wh p-0">180nm_HP2<br>
-                                       (1.8/5/~60V)</p>
+                                   <p class="cl-wh p-0">HB180EPN<br>
+                                       (1.8/5/~60V)
+                                   </p>
                                </div>
                            </div>
                            <div class="col-4 pr-1 pl-1">
                                <div class="box-bc-r p-0 pt-1">
-                                   <p class="cl-wh p-0">180nm_SLIM<br>
-                                       (1.8V/5/~35V)</p>
+                                   <p class="cl-wh p-0">HB180EPH<br>
+                                       (1.8/5/~60V)
+                                   </p>
                                </div>
                            </div>
                        </div>
                    </td>
 
-                   <!--2019-->
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
                    <!--2020-->
-                   <td colspan="4" class="td-bg-rd">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="p-0 m-0 cl-wh rdm-tit">HB180EJL2<br>
-                               (5V only)/(5V+HV)
-                               </p>
+                   <td class="td-bg-og"></td>
+                   <td class="td-bg-og"></td>
+                   <td class="td-bg-og pr-0" colspan="2">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="pr-0 m-0 cl-wh rdm-tit text-right">HB180E</p>
                        </div>
                    </td>
                    <!--2021-->
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
+                   <td colspan="2" class="td-bg-rd pl-0">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="pl-0 m-0 cl-wh rdm-tit text-left">JL2 (5V)</p>
+                       </div>
+                   </td>
+                   <td colspan="2" class="td-bg-rd pr-0">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="pr-0 m-0 cl-wh rdm-tit text-right">HB180EJL</p>
+                       </div>
+                   </td>
+                   <!--2022-->
+                   <td class="td-bg-og pl-0">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="pl-0 m-0 cl-wh rdm-tit text-left">2 (5V/HV)</p>
+                       </div>
+                   </td>
+                   <td colspan="2" class="td-bg-og"></td>
                    <td class="td-bg-og"></td>
                </tr>
                <tr>
                    <td class="pb-0">
                        <div class="row p-0">
                            <div class="col-4 pr-1 pl-1">
-                               <div class="box-bc-r p-0 pt-1">
-                                   <p class="cl-wh p-0">180nm_HP<br>
-                                       (1.8/5/~40V)</p>
-                               </div>
                            </div>
                            <div class="col-4 p-0">
                                <div class="box-bc-r p-0 pt-1">
-                                   <p class="cl-wh p-0">180nm_HP3<br>
-                                       (1.8/5/~30V)</p>
+                                   <p class="cl-wh p-0">HB180ENH
+                                       (1.8/5/~40V)<br>
+                                   </p>
                                </div>
                            </div>
                            <div class="col-4 pr-1 pl-1">
                                <div class="box-bc-r p-0 pt-1">
-                                   <p class="cl-wh p-0">130nm_G<br>
-                                       (1.5/5/~40V)</p>
+                                   <p class="cl-wh p-0">HB180ENH3<br>
+                                       (1.8/5/~40V)
+                                   </p>
                                </div>
                            </div>
                        </div>
                    </td>
 
                    <!--2019-->
-                   <td colspan="4" class="td-bg-og pr-0">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="p-0 m-0 cl-wh rdm-tit pl-5">Cost Effective MTP / 40V<br>
-                               for HB180ENH3</p>
-                       </div>
+                   <td colspan="4" class="td-bg-og">
                    </td>
                    <!--2020-->
-                   <td class="td-bg-rd pl-0">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="p-0 m-0 cl-wh rdm-tit"><br><br></p>
-                       </div>
+                   <td colspan="3" class="td-bg-rd">
                    </td>
-                   <td class="td-bg-rd"></td>
-                   <td class="td-bg-rd"></td>
                    <td class="td-bg-rd pr-0">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-bg rdm-tit">.</p>
+                       <div class="box-bc-gr pt-1 p-0 pb-1">
+                           <p class="m-0 cl-gr rdm-tit text-right pr-0">.</p>
                        </div>
                    </td>
                    <!--2021-->
                    <td colspan="4" class="td-bg-og pl-0">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh rdm-tit text-left">110nm BCD + eFlash</p>
+                       <div class="box-bc-gr pt-1 p-0 pb-1">
+                           <p class="m-0 pl-0 cl-wh rdm-tit text-left">HB180ESH
+                               (110V BCDMOS)
+                           </p>
                        </div>
                    </td>
                </tr>
@@ -216,49 +217,24 @@
                <tr>
                    <th rowspan="2">Logic eFlash</th>
                    <td rowspan="2">
-                       <div class="row p-0">
-                           <div class="col-4 p-0">
-                           </div>
-                           <div class="col-4 p-0">
-                           </div>
-                           <div class="col-4 pr-1 pl-1">
-                               <div class="box-bc-r p-0">
-                                   <p class="cl-wh p-0 pt-1">HL110LP<br>
-                                       1.5V/3.3V<br>
-                                       1.5V/5.0V
-                                       </p>
-                               </div>
-                           </div>
-                       </div>
-                   </td>
-                   <!--2019-->
-                   <td colspan="4" class="td-bg-og pr-0">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh text-right pr-0">YMC MTP(3.3V), SST&nbsp;</p>
-                       </div>
-                   </td>
-                   <td colspan="2" class="pl-0 td-bg-rd">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="pl-0 m-0 cl-wh text-left">eFalsh(5V)</p>
-                       </div>
+
                    </td>
                    <!--2020-->
-                   <td colspan="2" class="pr-0 td-bg-rd">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh pr-0 text-right">SST eFlash
-                           </p>
+                   <td colspan="2" class="td-bg-og"></td>
+                   <td colspan="2" class="td-bg-og pr-0">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="m-0 cl-wh text-right pr-0">HL</p>
                        </div>
                    </td>
+                   <td colspan="4" class="pl-0 td-bg-rd">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="pl-0 m-0 cl-wh text-left">110LP +3.3V MTP</p>
+                       </div>
+                   </td>
+
+
                    <!--2021-->
-                   <td class="pl-0 td-bg-og">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh pl-0 text-left">(3.3V)
-                           </p>
-                       </div>
-                   </td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
-                   <td class="td-bg-og"></td>
+                   <td class="pl-0 td-bg-og" colspan="4"> </td>
                </tr>
                <tr>
 
@@ -266,101 +242,92 @@
                    <td colspan="4" class="td-bg-og"></td>
                    <!--2020-->
                    <td colspan="4" class="td-bg-rd pr-0">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh pr-0 text-right">ACTT MTP(1.5V/3.3V), </p>
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="m-0 cl-wh pr-0 text-right">HL110LP + 5V eFlash</p>
                        </div>
                    </td>
                    <!--2021-->
-                   <td colspan="2" class="td-bg-og pl-0">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh pl-0 text-left">YMC Gen4</p>
+                   <td class="td-bg-og pl-0">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="m-0 cl-or pl-0 text-left">0</p>
                        </div>
                    </td>
-                   <td colspan="2" class="td-bg-og"></td>
+                   <td colspan="3" class="td-bg-og"></td>
                </tr>
                <!--Logic eFlash/end-->
 
                <!--CIS-->
                <tr>
                    <th rowspan="2">CIS</th>
-                   <td rowspan="2" class="pb-0">
+                   <td class="pb-0">
                        <div class="row p-0">
                            <div class="col-4 pr-1 pl-1">
-                               <div class="box-bc-r p-0">
-                                   <p class="cl-wh p-0 pt-1 pb-1">130nm_FSI<br>
-                                       (1.8/2.8V)<br>
-                                       HC130SFN
+                               <div class="box-bc-r p-0 pt-1">
+                                   <p class="cl-wh ">HC130SFN<br>
+                                       (1.8/2.8V)
                                    </p>
                                </div>
                            </div>
                            <div class="col-4 p-0">
-                               <div class="box-bc-r p-0">
-                                   <p class="cl-wh p-0 pt-1 pb-1">90nm_BSI/FSI<br>
-                                       (1.2V/2.8V)<br>
-                                       HC90L
+                               <div class="box-bc-r p-0 pt-1">
+                                   <p class="cl-wh ">HC90L<br>
+                                       (1.2V/2.8V)
                                    </p>
                                </div>
                            </div>
                            <div class="col-4 pr-1 pl-1">
-                               <div class="box-bc-r p-0">
-                                   <p class="cl-wh p-0 pt-1 pb-1">130nm_FSI<br>
-                                       90nm_BSI/FSI<br>
-                                       (MR)
+                               <div class="box-bc-r p-0 pt-1">
+                                   <p class="cl-wh p-0">90nm/130nm<br>
+                                       Mask Reduction
+                                   </p>
+                               </div>
+                           </div>
+                       </div>
+                   </td>
+                   <!--2020-->
+                   <td colspan="4" class="td-bg-og">
+                   </td>
+                   <!--2021-->
+                   <td colspan="4" class="td-bg-rd">
+                   </td>
+                   <!--2022-->
+                   <td colspan="4" class="td-bg-og" ></td>
+               </tr>
+               <tr>
+                   <td class="pb-0">
+                       <div class="row p-0">
+                           <div class="col-4 pr-1 pl-1">
+                           </div>
+                           <div class="col-4 p-0">
+                               <div class="box-bc-r p-0 pt-1">
+                                   <p class="cl-wh p-0">HC130SFN<br>
+                                       Stitching
+                                   </p>
+                               </div>
+                           </div>
+                           <div class="col-4 pr-1 pl-1">
+                               <div class="box-bc-r p-0 pt-1">
+                                   <p class="cl-wh p-0">HC130SFN<br>
+                                       OFP Solution
                                    </p>
                                </div>
                            </div>
                        </div>
                    </td>
                    <!--2019-->
-                   <td colspan="2" class="td-bg-og">
-                       <div class="box-bc-r pt-1 p-0 pb-1">
-                           <p class="p-0 m-0 cl-wh rdm-tit">Stitching<br>
-                               Solution
-                           </p>
-                       </div>
-                   </td>
-                   <td colspan="2" class="td-bg-og pr-0 td-bg-og">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="m-0 cl-or rdm-tit">.
-                           </p>
-                       </div>
-                   </td>
-                   <!--2020-->
-                   <td colspan="3" class="pl-0 td-bg-rd">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh rdm-tit text-left">ToF
-                               </p>
-                       </div>
-                   </td>
-                   <td class="td-bg-rd"></td>
-                   <!--2021-->
-                   <td class="td-bg-og" colspan="4"></td>
-               </tr>
-               <tr>
-                   <!--2019-->
                    <td colspan="4" class="pr-0 td-bg-og">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh rdm-tit pr-0 text-right">OFP Solution
-                           </p>
-                       </div>
                    </td>
                    <!--2020-->
-                   <td colspan="2" class="pl-0 td-bg-rd">
+                   <td colspan="4" class="pr-0 td-bg-rd">
                        <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="m-0 cl-or pl-0"> .
-                           </p>
-                       </div>
-                   </td>
-                   <td colspan="2" class="pr-0 td-bg-rd">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-bg rdm-tit">.
+                           <p class="cl-wh m-0 pl-0 text-right">NIR / TOF
                            </p>
                        </div>
                    </td>
                    <!--2021-->
                    <td colspan="4" class="pl-0 td-bg-og">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh text-left pl-0">Global Shutter
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="m-0 cl-wh text-left pl-0">Solution
                            </p>
                        </div>
                    </td>
@@ -371,22 +338,26 @@
                <tr>
                    <th>MEMS</th>
                    <td></td>
-                   <!--2019-->
-                   <td class="td-bg-og" colspan="3"></td>
-                   <td class="td-bg-og pr-0">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="m-0 cl-or">.</p>
-                       </div>
-                   </td>
-                   <td colspan="4" class="pl-0 td-bg-rd">
-                       <div class="box-bc-or pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh pl-0">MEMS Microphone</p>
-                       </div>
-                   </td>
                    <!--2020-->
-                   <td colspan="4" class="td-bg-og">
-                       <div class="box-bc-bg pt-1 p-0 pb-1">
-                           <p class="m-0 cl-wh rdm-tit">Pressure Sensora</p>
+                   <td colspan="4" class="td-bg-og pr-0">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="m-0 cl-wh pr-0 text-right">MEMS Microphone (Korea
+                           </p>
+                       </div>
+                   </td>
+                   <!--2021-->
+                   <td colspan="2" class="pl-0 td-bg-rd">
+                       <div class="box-bc-or pt-1 p-0 pb-1">
+                           <p class="m-0 cl-wh pl-0 text-left">Fab Only)
+                           </p>
+                       </div>
+                   </td>
+                   <td colspan="2" class="pl-0 td-bg-rd"></td>
+                   <!--2022-->
+                   <td colspan="4" class="td-bg-og pl-0">
+                       <div class="box-bc-gr pt-1 p-0 pb-1">
+                           <p class="m-0 cl-wh ">Pressure Sensor
+                           </p>
                        </div>
                    </td>
                </tr>
@@ -395,29 +366,29 @@
                <!--Memory-->
                <tr>
                    <th>Memory</th>
-                   <td class="pb-0">
-                       <div class="row p-0">
-                           <div class="col-4 pr-1 pl-1">
-
-                           </div>
-                           <div class="col-4 p-0">
-                               <div class="box-bc-r p-0 ">
-                                   <p class="cl-wh p-0">90nm<br>SRAM</p>
-                               </div>
-                           </div>
-                           <div class="col-4 pr-1 pl-1">
-                               <div class="box-bc-r p-0">
-                                   <p class="cl-wh p-0">57nm<br>NAND</p>
-                               </div>
-                           </div>
-                       </div>
+                   <td>
                    </td>
                    <!--2019-->
-                   <td class="td-bg-og" colspan="4"></td>
+                   <td class="td-bg-og pr-0" colspan="4">
+                       <div class="box-bc-r pt-1 p-0 pb-1">
+                           <p class="m-0 cl-rd">.
+                           </p>
+                       </div>
+                   </td>
                    <!--2020-->
-                   <td class="td-bg-rd" colspan="4"></td>
+                   <td class="td-bg-rd pl-0 pr-0" colspan="4">
+                       <div class="box-bc-r pt-1 p-0 pb-1">
+                           <p class="m-0 cl-wh ">Not Available, EOL
+                           </p>
+                       </div>
+                   </td>
                    <!--2021-->
-                   <td class="td-bg-og" colspan="4"></td>
+                   <td class="td-bg-og pl-0" colspan="4">
+                       <div class="box-bc-r pt-1 p-0 pb-1">
+                           <p class="m-0 cl-rd">.
+                           </p>
+                       </div>
+                   </td>
                </tr>
                <!--Memory/end-->
                </tbody>

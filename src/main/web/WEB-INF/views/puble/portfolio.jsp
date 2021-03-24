@@ -84,7 +84,7 @@
                    <th>BCDMOS</th>
                    <td></td>
                    <td><div id="circle1" class="center"><span class="text-ex">양산 중</span></div></td>
-                   <td><div id="circle1" class="center"><span class="text-ex">양산 중</span></div></td>
+                   <td><!--<div id="circle1" class="center"><span class="text-ex">양산 중</span></div>0304요청--></td>
                    <td><div id="circle2" class="center"><span class="text-ex">개발 중</span></div></td>
                    <td class="td-bg-rd"></td>
                    <td class="td-bg-rd"></td>
@@ -151,8 +151,9 @@
                    <td class="td-bg-rd"><div id="circle1" class="center"><span class="text-ex">양산 중</span></div></td>
                    <td class="al">
                        <ul class="s-list3">
-                           <li>SRAM(90nm)</li>
+                           <li>SRAM 90nm)</li>
                            <li>NAND(57nm)</li>
+                           <li>EOL</li>
                        </ul>
                    </td>
                </tr>

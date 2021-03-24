@@ -454,6 +454,7 @@ input + .btn-icon { width:38px; padding:0; border-radius:0 4px 4px 0; border-wid
 .cl-or{color:#e47436; }
 .cl-wh{color:#fff !important; }
 .cl-bg{color:#465e6f; }
+.cl-gr{color:#61c44a; }
 
 .bc-rd{background-color:#db2043; }
 
@@ -574,7 +575,7 @@ a, a:visited { margin: 0; padding: 0; font-size: 100%; text-decoration: none; }
 #circle2 {
     width: 25px;
     height: 25px;
-    background: repeating-linear-gradient(#fff, #fff 1px, #e47436 0, #e47436 4px);
+    background: repeating-linear-gradient(#fff, #fff 1px, #61c44a 0, #61c44a 4px);
     border-radius: 50%;
     border: solid 2px #222;
 }
