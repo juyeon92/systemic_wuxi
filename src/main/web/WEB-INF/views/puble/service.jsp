@@ -74,7 +74,7 @@
                            <td><div id="circle" class="center"></div></td>
                            <td>M31</td>
                            <td>SKHYIS<br>eMemory</td>
-                           <td>SKHYIS<br>eMemory<br><span class="cl-rd">YMC</span></td>
+                           <td>SKHYIS<br>eMemory<br>YMC</td>
                            <td></td>
                            <td></td>
                        </tr>
@@ -94,10 +94,10 @@
                            <th class="th-bg-rd">Mixed<br>Signal</th>
                            <td>7T</td>
                            <td><div id="circle" class="center"></div></td>
-                           <td><span class="cl-rd">M31</span></td>
+                           <td>M31</td>
                            <td></td>
-                           <td><span class="cl-rd">YMC</span></td>
-                           <td><span class="cl-rd">SST</span></td>
+                           <td>YMC</td>
+                           <td>SST</td>
                            <td><span class="cl-rd">ADC, PLL <br> BRG, LDO <br> POR</span></td>
                        </tr>
 

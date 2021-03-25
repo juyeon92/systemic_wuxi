@@ -81,16 +81,16 @@
                                            <tr>
                                                <td>
                                                    <div id="hvcmos_bg1">
-                                                       <div class="left" style="padding-top:20%;"> TV </div>
+                                                       <div class="left" style="padding-top:22%;"> TV </div>
                                                        <div class="right">
                                                            <ul>
                                                                <!--	<li>3.3/18V</li>
                                                                    <li>3.3/18V Light3</li>
                                                                    <li>1.8/18V Light3</li>-->
-                                                               <li class="fc_red01" style="padding-top: 100px;">1.8/18V Light4</li>
+                                                               <li class="pt-10">1.8/18V<br>(HD180IHL5)</li>
                                                                <!--<li class="fc_gr" style="text-decoration-line: underline">1.8/18V Light5</li>
-                                                               <li>1.2/18V</li>
-                                                               <li class="fc_gr" style="text-decoration-line: underline">1.2/18V (Logic)</li>-->
+                                                               <li>1.2/18V</li>-->
+                                                               <li class="fc_gr pt-4" >1.2V/18V<br>FEOL 110nm</li>
                                                            </ul>
                                                        </div>
                                                        <div class="left" style="padding-top:7%;  height:190px;"><p>IT</p>
@@ -104,7 +104,7 @@
                                                            <ul>
                                                                <!--	<li>1.8/9V </li>
                                                                    <li>3.3/13.5V </li>-->
-                                                               <li class="fc_org01"  style="padding-top: 50px;">1.8/13.5V Light4 </li>
+                                                               <li class="fc_red01"  style="padding-top: 50px;">1.8/9V/13.5V<br>(HD180IEL6)</li>
                                                                <!--	<li>1.2/13.5V</li>-->
                                                            </ul>
                                                        </div>
@@ -122,10 +122,10 @@
                                                <td style="width:445px;">
                                                    <div id="text_box">
                                                        <div>Available (Mass Prod.)</div>
-                                                       <div class="fc_red01">Available (New)</div>
+                                                       <div class="fc_grn">Available (New)</div>
                                                    </div>
                                                    <div id="text_box">
-                                                       <div class="fc_org01">Under Developing</div>
+                                                       <div class="fc_red01">Under Developing</div>
                                                        <div class="fc_gr" style="text-decoration-line: underline">Under Planning</div>
                                                    </div>
                                                </td>
