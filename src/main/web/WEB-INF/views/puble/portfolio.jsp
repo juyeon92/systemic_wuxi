@@ -151,9 +151,8 @@
                    <td class="td-bg-rd"><div id="circle1" class="center"><span class="text-ex">양산 중</span></div></td>
                    <td class="al">
                        <ul class="s-list3">
-                           <li>SRAM 90nm)</li>
-                           <li>NAND(57nm)</li>
-                           <li>EOL</li>
+                           <li>SRAM 90nm)(EOL)</li>
+                           <li>NAND(57nm)(EOL)</li>
                        </ul>
                    </td>
                </tr>

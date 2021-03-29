@@ -84,7 +84,7 @@
                            <td>11T<br>9T</td>
                            <td><div id="circle" class="center"></div></td>
                            <td></td>
-                           <td><span class="cl-rd">eMemory</span></td>
+                           <td><span class="cl-gr">eMemory</span></td>
                            <td></td>
                            <td></td>
                            <td></td>
@@ -98,14 +98,14 @@
                            <td></td>
                            <td>YMC</td>
                            <td>SST</td>
-                           <td><span class="cl-rd">ADC, PLL <br> BRG, LDO <br> POR</span></td>
+                           <td><span class="cl-gr">ADC, PLL <br> BRG, LDO <br> POR</span></td>
                        </tr>
 
                        </tbody>
                    </table>
                </div>
                <img class="PC-hide" src="${pageContext.request.contextPath}/resources/images/service_m.jpg">
-               <span class="s-title cl-rd">Under Development</span>
+               <span class="s-title cl-gr">Under Development</span>
 
        </div>
     </div>
@@ -115,7 +115,7 @@
             <h5 class="s-title bb-2-r cl-rd text-center pb-3">Analog 설계를 위한 EDA Tool 지원</h5>
             <h6 class="s-title">PDK based Analog Design flow</h6>
             <div data-aos="fade-up" aos-offset="300" aos-easing="ease-in-sine" aos-duration="500" >
-                <img src="http://www.skhynixsystemic.cn/common/images/design_service_pic2.png">
+                <img src="http://www.skhynixsystemic.cn/common/images/210326_design_service_pic2.png">
             </div>
             <h6 class="s-title pt-5">EDA tool support status</h6>
             <div data-aos="fade-up" aos-offset="300" aos-easing="ease-in-sine" aos-duration="900" >
@@ -134,7 +134,7 @@
 
             <h6 class="s-title pt-5">EDA tool support status</h6>
             <div data-aos="fade-up" aos-offset="300" aos-easing="ease-in-sine" aos-duration="900" >
-            <img src="http://www.skhynixsystemic.cn/common/images/design_service_pic5.png">
+            <img src="http://www.skhynixsystemic.cn/common/images/210326_design_service_pic5.png">
             </div>
         </div>
     </div>

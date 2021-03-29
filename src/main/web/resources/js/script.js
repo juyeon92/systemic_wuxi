@@ -3,6 +3,7 @@ $(document).ready(function(){
 
 
 
+
     //header GNB fix
     var jbOffset = $( '.main-header-second' ).offset();
     $( window ).scroll( function() {
@@ -35,6 +36,13 @@ $(document).ready(function(){
     });
 
 
+    //header menu 2depth
+    $('.main-nav-ul-li').on('mouseenter', function(){
+        $('.menubar_ul2').addClass('active')
+    })
+    $('.main-nav-ul-li').on('mouseleave', function(){
+        $('.menubar_ul2').removeClass('active')
+    })
 
     
     // Add toggle button and class if menu has submenu
@@ -71,7 +79,9 @@ $(document).ready(function(){
 /*관련사이트*/
 function toggle_click(obj){
     $(obj).find('ul').first().toggle('active');
-    }
+}
+
+
 
 function togglemenu(){
     document.getElementById('sidebar').classList.toggle('active');

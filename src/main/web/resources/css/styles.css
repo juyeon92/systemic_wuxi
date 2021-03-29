@@ -80,12 +80,25 @@
 
 
 
-
 .main-nav-ul > li {white-space: nowrap; float: left; width: 100%; }
-.main-nav-ul > li > a{ color:#555; font-size: 13px;  font-weight: normal; line-height: 35px;  }
+.main-nav-ul > li > a{ color:#333; font-size: 15px;  font-weight: normal; line-height: 35px; position: relative; }
 .main-nav-ul > li > a:before{ content: ""; position: absolute; left: 0; width: 0; bottom: 0; height: 1px !important; background: #c9302c; transition: width 0.5s;}
 .main-nav-ul li a:hover, .main-nav-ul li a:focus{color: #ea002c; }
 .main-nav-ul li a:hover:before, .main-nav-ul li a:focus:before{color: #ea002c; width: 100%;}
+
+/*2depth*/
+.main-nav-ul .menubar_ul2{display: none;}
+.menubar_ul2.active{display: block;}
+
+.main-nav-ul .menubar_ul2 li{display: block; width: 100%;}
+.menubar_ul2 > li > a {
+    color: #555;
+    font-size: 13px;
+    font-weight: normal;
+
+    line-height: 30px;
+    margin-left: 10px;
+}
 
 .PC-hide{display: none}
 
@@ -812,7 +825,7 @@ h7.s-title{font-weight: bold;}
 #bcdmos table th {
     padding: 5px 5px;
     font-size: 18px;
-    color: #ff7a00;
+    color: #333;
     font-weight: 600;
     text-align: center;
     border-bottom: 1px #cdcdcd solid;
@@ -845,7 +858,7 @@ h7.s-title{font-weight: bold;}
     background-image: url("../images/tec_overview_bcdmos_pic2.png");
     height: 69px;
     font-size: 18px;
-    color: #ff7a00;
+    color: #333;
     font-weight: 600;
 }
 

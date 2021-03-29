@@ -384,7 +384,7 @@
                                <caption>MEMS Microphone Chip Table</caption>
                                <thead>
                                <tr>
-                                   <th scope="row" colspan="2">MEMS Microphone Chip</th>
+                                   <th scope="row" colspan="2">MEMS Microphone Chip 구조</th>
                                </tr>
                                </thead>
                                <tbody>
@@ -429,11 +429,11 @@
                        </div>
                        <div style="width:1%; float:left; "></div>
                        <div style="border-top: 2px solid #7c7c7c; width:49.5%; float:right;">
-                           <table class="mems_rtable" summary="Specialty Memory Foundry">
-                               <caption>Specialty Memory Foundry</caption>
+                           <table class="mems_rtable" summary="응용처">
+                               <caption>응용처</caption>
                                <thead>
                                <tr>
-                                   <th scope="row">Specialty Memory Foundry</th>
+                                   <th scope="row">응용처</th>
                                </tr>
                                </thead>
                                <tbody>

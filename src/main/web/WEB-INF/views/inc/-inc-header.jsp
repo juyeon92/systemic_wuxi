@@ -139,7 +139,16 @@
                                                 <ul class="main-nav-ul col-8 pt-4">
                                                     <li class="col-4"><a href="#" title="Technology Portfolio">Technology Portfolio</a></li>
                                                     <li class="col-4"><a href="#" title="Technology Roadmap">Technology Roadmap</a></li>
-                                                    <li class="col-4"><a href="#" title="Technology Overview">Technology Overview</a></li>
+                                                    <li class="col-4 main-nav-ul-li"><a href="#" title="Technology Overview">Technology Overview</a>
+                                                        <ul class="menubar_ul2">
+                                                            <li><a href="Toverview#tg01">HV CMOS</a></li>
+                                                            <li><a href="Toverview#tg02">BCDMOS</a></li>
+                                                            <li><a href="Toverview#tg03">CIS</a></li>
+                                                            <li><a href="Toverview#tg04">Logic/eFlash</a></li>
+                                                            <li><a href="Toverview#tg05">MEMS</a></li>
+                                                            <li><a href="Toverview#tg06">Memory</a></li>
+                                                        </ul>
+                                                    </li>
                                                     <li class="col-4"><a href="#" title="Design Service">Design Service</a></li>
                                                 </ul>
                                                 <div class="col-4 text-right">
