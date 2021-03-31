@@ -100,6 +100,31 @@
     margin-left: 10px;
 }
 
+/* 2depth +*/
+.main-nav-ul-li{position: relative;}
+.main-nav-ul-li:before{
+    position: absolute;
+    right: 53px;
+    top: 17px;
+    content: "";
+    width: 9px;
+    height: 1px;
+    background: #555; transition: width 0.5s;
+}
+.main-nav-ul-li:after{
+    position: absolute;
+    right: 57px;
+    top: 13px;
+    content: "";
+    width: 1px;
+    height: 9px;
+    background: #555; transition: width 0.5s;
+}
+.main-nav-ul-li:hover::after{
+    -webkit-transform: rotatey(-90deg);
+    transform: rotatey(-90deg);
+}
+
 .PC-hide{display: none}
 
 

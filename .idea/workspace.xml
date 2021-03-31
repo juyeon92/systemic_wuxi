@@ -7,22 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4613715e-ce2c-44fa-a585-980a553aff7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/web/resources/images/210326_design_service_pic5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/views/inc/-inc-header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/views/inc/-inc-header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/views/puble/Toverview.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/views/puble/Toverview.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/views/puble/portfolio.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/views/puble/portfolio.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/views/puble/service.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/views/puble/service.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/web/resources/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/images/Toverview_m1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/images/Toverview_m1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/images/Toverview_m3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/images/Toverview_m3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/images/Toverview_m5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/images/Toverview_m5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/images/Toverview_m6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/images/Toverview_m6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/images/design_service_pic2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/images/210326_design_service_pic2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/images/design_service_pic5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/images/roadmap_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/images/roadmap_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/images/service_m.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/images/service_m.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/resources/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/resources/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +228,7 @@
       <workItem from="1615968454820" duration="1842000" />
       <workItem from="1616551503381" duration="10125000" />
       <workItem from="1616741375370" duration="2938000" />
-      <workItem from="1616747277220" duration="7941000" />
+      <workItem from="1616747277220" duration="11689000" />
     </task>
     <task id="LOCAL-00001">
       <created>1606367153175</created>
@@ -503,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616635386819</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="최주연_퍼블">
+      <created>1617008690441</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1617008690441</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,11 +516,12 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2698" y="516" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@1920.0.1920.1080" timestamp="1616974037563" />
-    <state x="577" y="109" key="CommitChangelistDialog2" timestamp="1616635382836">
+    <state x="577" y="109" key="CommitChangelistDialog2" timestamp="1617008684136">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="577" y="109" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@0.0.1920.1050" timestamp="1616635382836" />
     <state x="2497" y="112" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@1920.0.1920.1080" timestamp="1613350802561" />
+    <state x="577" y="109" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1617008684136" />
     <state x="2311" y="245" key="FileChooserDialogImpl" timestamp="1616975335809">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -625,10 +619,11 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2381" y="184" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@1920.0.1920.1080" timestamp="1616974041366" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1616635480069">
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1617008692617">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@0.0.1920.1050" timestamp="1616635480069" />
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1617008692617" />
     <state x="776" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614759947750">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
