@@ -228,7 +228,7 @@
       <workItem from="1615968454820" duration="1842000" />
       <workItem from="1616551503381" duration="10125000" />
       <workItem from="1616741375370" duration="2938000" />
-      <workItem from="1616747277220" duration="11689000" />
+      <workItem from="1616747277220" duration="11876000" />
     </task>
     <task id="LOCAL-00001">
       <created>1606367153175</created>
@@ -496,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617008690441</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="최주연_퍼블">
+      <created>1617151907714</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1617151907714</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,10 +523,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2698" y="516" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@1920.0.1920.1080" timestamp="1616974037563" />
-    <state x="577" y="109" key="CommitChangelistDialog2" timestamp="1617008684136">
+    <state x="577" y="109" key="CommitChangelistDialog2" timestamp="1617151904654">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="577" y="109" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@0.0.1920.1050" timestamp="1616635382836" />
+    <state x="577" y="109" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@0.0.1920.1050" timestamp="1617151904654" />
     <state x="2497" y="112" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1080/-1080.-387.1080.1920@1920.0.1920.1080" timestamp="1613350802561" />
     <state x="577" y="109" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1617008684136" />
     <state x="2311" y="245" key="FileChooserDialogImpl" timestamp="1616975335809">
