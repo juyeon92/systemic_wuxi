@@ -5638,6 +5638,7 @@
     -ms-grid-row-align: stretch !important;
     align-self: stretch !important; }
 
+.m-h{min-height: 600px;}
 
 .site-section {
     padding: 70px 0;

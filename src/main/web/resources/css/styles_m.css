@@ -316,7 +316,7 @@ main-nav .main-nav-list > li > a::before{
 
 .Main-ban{
     background-image: url("../images/Main_ban.jpg");
-   /* background: linear-gradient(to right, #333, #666);*/
+    /* background: linear-gradient(to right, #333, #666);*/
     height: 200px;
     background-size: cover;
     background-repeat: no-repeat;

@@ -40,8 +40,8 @@
             <div class="row">
 
                 <h6>임직원의 안정적이고 여유로운 삶 영위를 위한 다양한 복리후생 프로그램을 운영합니다.</h6>
-                <div class="recruit05_bg w-100 mb-10 p-15">
-                </div>
+
+                <div class="recruit05_bg w-100 mb-10 p-15"></div>
 
             </div>
 

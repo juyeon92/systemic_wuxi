@@ -16,6 +16,7 @@
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/fonts/roboto.css" media="all">
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/animate.css">
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/aos.css">
+        <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/animista.css">
 
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/bootstrap.css" rel="stylesheet" />
 

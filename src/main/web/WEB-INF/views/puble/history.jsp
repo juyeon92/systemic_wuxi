@@ -46,6 +46,7 @@
                    <p class="tit_txt"><img src="${pageContext.request.contextPath}/resources/images/his1_txt.png" alt="Foundry Business"></p>
 
                   <ul>
+
                   <li class="active" data-year="">
                       <div data-aos="fade-right" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
                      <h2>2018</h2>
@@ -114,6 +115,7 @@
                     <p class="tit_txt"><img src="${pageContext.request.contextPath}/resources/images/his2_txt.png" alt="Memory"></p>
 
                     <ul>
+
                      <li class="active" data-year="">
                          <div data-aos="fade-right" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
                         <h2>2007</h2>

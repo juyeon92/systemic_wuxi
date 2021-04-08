@@ -148,19 +148,26 @@
 /* ------------------------- */
 /*Main-ban*/
 .Main-ban{
+    height: 425px;
+    min-height: 425px;
     background-image: url("../images/Main_ban.jpg");
     /*background: linear-gradient(to right, #333, #666);*/
-    height: 425px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     /*text-align: center;*/
     position: relative;
     padding-top: 10rem;
+    -moz-animation: kenburns-top 2s ease-in-out;
+    animation: kenburns-top 2s ease-in-out;
+
 }
-.Main-tit{color: #fff; font-size: 35px; line-height: 40px; font-weight: bold; }
+.Main-tit{color: #fff; font-size: 35px; line-height: 40px; font-weight: bold;
+    -moz-animation: text-focus-in 2s ease-in-out;
+    animation: text-focus-in 2s ease-in-out;}
 
-
+.Main-ban .txt1{-moz-animation: text-focus-in 2s ease-in-out;
+    animation: text-focus-in 2s ease-in-out;}
 
 
 /*Micon - mouse aciton*/
