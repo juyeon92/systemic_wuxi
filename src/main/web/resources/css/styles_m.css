@@ -176,6 +176,7 @@ main-nav .main-nav-list > li > a::before{
 
 .main-nav-list .main-nav-list-sub .main-nav-ul li { padding: 10px 30px; margin: 0; line-height: 27px;}
 
+.site-section{width: 100%;}
 
 .site-overlay {
     left: 0;
@@ -546,11 +547,9 @@ a:hover .nt-title:before, a:focus .nt-title:before{color: #ea002c;}
 }
 
 .company_history_cnt>ul>li.active, .company_history_cnt>ul>li:nth-child(even){
-    padding: 0;
-    padding-left: 30px;
-    padding-bottom: 30px;
+    padding: 0 0 30px 30px;
     text-align: left;
-    width: 100%;
+    clear:both;
     display: block;
 }
 

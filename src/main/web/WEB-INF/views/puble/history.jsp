@@ -4,7 +4,7 @@
 
 
 <!-- Content -->
-<div>
+
 
     <!-- Banner -->
     <div class="sub-ban ">
@@ -33,81 +33,81 @@
     </div>
 
 
+
     <!-- cnt -->
+<div class="clearfix w-100">
     <div class="site-section p-0">
-       <div class="container">
+        <div class="container" >
 
-           <!-- history_wrap -->
-           <div class="company_history">
+            <!-- history_wrap -->
+            <div class="company_history">
 
-                   <h5 class="s-title mt-10 text-center cl-rd">1995 - 2018</h5>
+                <h5 class="s-title mt-10 text-center cl-rd">1995 - 2018</h5>
 
-               <div class="company_history_cnt">
-                   <p class="tit_txt"><img src="${pageContext.request.contextPath}/resources/images/his1_txt.png" alt="Foundry Business"></p>
+                <div class="company_history_cnt">
+                    <p class="tit_txt"><img src="${pageContext.request.contextPath}/resources/images/his1_txt.png" alt="Foundry Business"></p>
 
-                  <ul>
+                    <ul>
 
-                  <li class="active" data-year="">
-                      <div data-aos="fade-right" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                     <h2>2018</h2>
-                       <div>
-                           <p>에스케이하이닉스시스템아이씨 <span class="highlighted">우시 공장 설립</span></p>
-                       </div>
-                  </div>
-                </li>
-               <li class="active">
-                   <div data-aos="fade-left" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                   <h2>2017</h2>
-                   <div>
-                       <p><span class="highlighted">Under Development</span> Logic/MEMS <span class="highlighted">110nm</span></p>
-                   </div>
-               </div>
-               </li>
-               <li class="active">
-                   <div data-aos="fade-right" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                   <h2>2014</h2>
-                   <div>
-                       <p><span class="highlighted">CIS</span> 130nm/90nm <span class="num">11</span></p>
-                   </div>
-                   </div>
-               </li>
-               <li class="active">
-                   <div data-aos="fade-left" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                   <h2>2012</h2>
-                   <div>
-                       <p><span class="num">11</span> <span class="highlighted">BCDMOS</span> 180nm/150nm/130nm</p>
-                   </div>
-                   </div>
-               </li>
-               <li class="active">
-                   <div data-aos="fade-right" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                   <h2>2010</h2>
-                   <div>
-                       <p><span class="highlighted">HV CMOS</span> 500nm/350nm/180nm/90nm <span class="num">12</span></p>
-                   </div>
-                   </div>
-               </li>
-               <li class="active">
-                   <div data-aos="fade-left" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                   <h2>2008</h2>
-                   <div>
-                       <p><span class="num">10</span> <span class="highlighted">Memory Foundry</span> NAND(57nm) / SRAM(90nm)</p>
-                   </div>
-                   </div>
-               </li>
-           </ul></div>
+                        <li class="active" data-year="">
+                            <div data-aos="flip-up" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>2018</h2>
+                                <div>
+                                    <p>에스케이하이닉스시스템아이씨 <span class="highlighted">우시 공장 설립</span></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="active">
+                            <div data-aos="flip-down" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>2017</h2>
+                                <div>
+                                    <p><span class="highlighted">Under Development</span> Logic/MEMS <span class="highlighted">110nm</span></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="active">
+                            <div data-aos="flip-up aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>2014</h2>
+                                <div>
+                                    <p><span class="highlighted">CIS</span> 130nm/90nm <span class="num">11</span></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="active">
+                            <div data-aos="flip-down" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>2012</h2>
+                                <div>
+                                    <p><span class="num">11</span> <span class="highlighted">BCDMOS</span> 180nm/150nm/130nm</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="active">
+                            <div data-aos="flip-up" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>2010</h2>
+                                <div>
+                                    <p><span class="highlighted">HV CMOS</span> 500nm/350nm/180nm/90nm <span class="num">12</span></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="active">
+                            <div data-aos="flip-down" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>2008</h2>
+                                <div>
+                                    <p><span class="num">10</span> <span class="highlighted">Memory Foundry</span> NAND(57nm) / SRAM(90nm)</p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
 
-           </div>
-           <!-- //history_wrap -->
+            </div><!-- //history_wrap -->
 
 
-       </div>
+        </div>
     </div>
 
-
-
     <div class="site-section bg-light p-0">
-        <div class="container">
+        <div class="container" >
 
             <!-- history_wrap -->
             <div class="company_history">
@@ -116,42 +116,43 @@
 
                     <ul>
 
-                     <li class="active" data-year="">
-                         <div data-aos="fade-right" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                        <h2>2007</h2>
-                        <div>
-                            <p>~ 2008.10 EOL<br>
-                                CIS(IDM)<span class="num">11</span></p>
-                        </div>
-                         </div>
-                    </li>
-                        <li class="active">
-                            <div data-aos="fade-left" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                            <h2>2004</h2>
-                            <div>
-                                <p>~ 2007 EOL<br>
-                                    <span class="num">00</span> <span class="highlighted">SRAM, NAND</span> 120nm/90nm/70nm/57nm</p>
-                            </div>
+                        <li class="active" data-year="">
+                            <div data-aos="flip-up" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>2007</h2>
+                                <div>
+                                    <p>~ 2008.10 EOL<br>
+                                        CIS(IDM)<span class="num">11</span></p>
+                                </div>
                             </div>
                         </li>
                         <li class="active">
-                            <div data-aos="fade-right" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
-                            <h2>1996</h2>
-                            <div>
-                                <p>~ 2005 EOL<br>
-                                    <span class="highlighted">DRAM</span> 200nm/180nm/160nm/120nm/80nm <span class="num">08</span></p>
+                            <div data-aos="flip-down" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>2004</h2>
+                                <div>
+                                    <p>~ 2007 EOL<br>
+                                        <span class="num">00</span> <span class="highlighted">SRAM, NAND</span> 120nm/90nm/70nm/57nm</p>
+                                </div>
                             </div>
+                        </li>
+                        <li class="active">
+                            <div data-aos="flip-up" aos-offset="300" aos-easing="ease-in-sine" aos-duration="800" >
+                                <h2>1996</h2>
+                                <div>
+                                    <p>~ 2005 EOL<br>
+                                        <span class="highlighted">DRAM</span> 200nm/180nm/160nm/120nm/80nm <span class="num">08</span></p>
+                                </div>
                             </div>
                         </li>
 
-                    </ul></div>
+                    </ul>
+                </div>
 
             </div>
             <!-- //history_wrap -->
-            </div>
-
         </div>
+
     </div>
+
 
     <div class="site-section">
         <div class="container">
@@ -174,13 +175,10 @@
                         <dd>Bipolar CMOS DMOS</dd>
                     </div>
                 </div>
+            </div>
         </div>
-    </div>
 
-    <!-- cnt/END -->
-
-
-
+    </div><!-- cnt/END -->
 
 </div>
 
