@@ -433,11 +433,11 @@ input + .btn-icon { width:38px; padding:0; border-radius:0 4px 4px 0; border-wid
 
 .dc-box{position: relative; padding: 20px; -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05); box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05); background: #fff;}
 .dc-box:before{content: ''; position: absolute; left: 0; width: 3px; top: 0; height: 100%; background-color: #ea002c;}
-.dc-box:after{ content: '\f0c7'; font-family: "FontAwesome"; font-size: 40px; position: absolute; right: 6%;  top: 35%; color: #999;}
+/*.dc-box:after{ content: '\f0c7'; font-family: "FontAwesome"; font-size: 40px; position: absolute; right: 6%;  top: 35%; color: #999;}*/
 .dc-box:hover:after, .dc-box:focus:after, .dc-box:hover a{color:#ea002c; }
 .dc-box:hover, .dc-box:focus { transform:translate(2%,0%); -webkit-transform: translate(2%,0%); -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.1); box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.1);transition: all 0.5s;}
 
-
+.strong{font-weight: bold;}
 
 .box2 h5{color: #fff; }
 .box2 span{color: #fff;}

@@ -44,7 +44,31 @@
           </div>
 
           <!--main cnt-->
+          <div class="bb-1-6 p-3">
+              <div class="mb-2">&nbsp;<i class="mdi mdi-attachment"></i> 첨부파일(14) </div>
+              <a>
+                  <div class="p-2 bordered-1-e w-50">
+                      <span class="strong"><i class="icon-mm mdi mdi-image f-left pr-4"></i>첨부파일 제목입니다.jpg</span>
+                  </div>
+              </a>
+              <a>
+                  <div class="p-2 bordered-1-e w-50 mt-2">
+                      <span class="strong"><i class="icon-mm mdi mdi-file-powerpoint f-left pr-4"></i>첨부파일 제목입니다.ppt</span>
+                  </div>
+              </a>
+              <a>
+                  <div class="p-2 bordered-1-e w-50 mt-2">
+                      <span class="strong"><i class="icon-mm mdi mdi-file-pdf f-left pr-4"></i>첨부파일 제목입니다.pdf</span>
+                  </div>
+              </a>
+              <a>
+                  <div class="p-2 bordered-1-e w-50 mt-2">
+                      <span class="strong"><i class="icon-mm mdi mdi-file-excel f-left pr-4"></i>첨부파일 제목입니다.exc</span>
+                  </div>
+              </a>
+          </div>
           <div class="box3 bb-1-6">
+
               <span class="d-block pb-4">
                   관리자가 작성한 게시물 내용이 들억는영역입니다!<br>
                   아래는 영상도 들어가고, 이미지도 들어가고 자유로운 영역으로 노출<br>

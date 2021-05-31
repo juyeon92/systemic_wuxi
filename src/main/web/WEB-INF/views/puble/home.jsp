@@ -129,12 +129,12 @@
                     <div class="animated fadeInLeft delay-03" data-animation="fadeInLeft" data-animation-delay="03">
                     <div class="row align-items-stretch">
                         <a href="#" class="w-100">
-                            <div class="box2 h-100">
-                                <h5 class="pb-7">시스템아이씨<br/>20년 외부감사 신규 선임</h5>
-                                <span class="d-block">2020.01.12 ~ 2020.03.30</span>
+                            <div class="box bt-3-r m-h-190">
+                                <h5 class="pb-3 mb-3 bb-1-6">한줄 공지사항 노출</h5>
+                                <span style="position: absolute; bottom: 15px;" class="d-block bd-date">2020.01.12 ~ 2020.03.30</span>
+                                <span style="position: absolute; bottom: 15px; right: 15px;" class="bd-view">48</span>
                             </div>
                         </a>
-
                     </div>
                     </div>
                 </div>
