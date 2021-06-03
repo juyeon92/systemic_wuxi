@@ -12,8 +12,6 @@
 .f-left{float: left;}
 .f-right{float: right;}
 
-.m-h-190{min-height: 190px;}
-
 .w-5 {
     width: 5% !important;
 }
@@ -5739,6 +5737,7 @@
 .line-rd{width: 100%; height: 2px; background-color:#db2043; }
 
 /*box*/
+.box-sm{padding: 10px; -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05); box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05); background: #fff;}
 .box{padding: 20px; -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05); box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05); background: #fff;}
 .box2{padding: 20px; width: 100%; -webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05); box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.05); background: #465e6f;}
 .box3{padding: 20px; /*-webkit-box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.1); box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.1);*/ background: transparent;}
@@ -5749,6 +5748,8 @@
 .box-bc-bg{padding: 20px; background: #465e6f;}
 .box-bc-or{padding: 20px; background: #e47436;}
 .box-bc-gr{padding: 20px; background: #61c44a;}
+
+.bg-white{background-color: #fff;}
 
 /*icon*/
 .icon-bg-rd{display: flex;

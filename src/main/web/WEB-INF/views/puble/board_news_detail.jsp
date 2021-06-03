@@ -45,7 +45,7 @@
 
           <!--main cnt-->
           <div class="bb-1-6 p-3">
-              <div class="mb-2">&nbsp;<i class="mdi mdi-attachment"></i> 첨부파일(14) </div>
+              <div class="mb-2">&nbsp;<i class="mdi mdi-attachment"></i> 첨부파일(4) </div>
               <a>
                   <div class="p-2 bordered-1-e w-50">
                       <span class="strong"><i class="icon-mm mdi mdi-image f-left pr-4"></i>첨부파일 제목입니다.jpg</span>

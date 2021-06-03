@@ -91,15 +91,13 @@
                     <div class="animated fadeInDown delay-01" data-animation="fadeInDown" data-animation-delay="01">
                     <div class="row align-items-stretch">
                         <a href="#" class="h-50 w-100 p-0 col-lg-5-5 col-sm-12 mr-4 mb-4 dc-box">
-                            <div class="box">
-                                <span class="d-block text-title">0.11um CI111</span>
-                                <span class="d-block">2020.01.12</span>
+                            <div class="box-sm">
+                                <span class="d-block text-title pl-3">Logic_HL110LP</span>
                             </div>
                         </a>
                         <a href="#" class="h-50 w-100 p-0 col-lg-5-5 col-sm-12 mb-4 dc-box">
-                            <div class=" box">
-                                <span class="d-block text-title">0.11um CI1111</span>
-                                <span class="d-block">2020.01.12</span>
+                            <div class="box-sm">
+                                <span class="d-block text-title pl-3">HV CMOS_HD180IHL5</span>
                             </div>
                         </a>
                     </div>
@@ -107,15 +105,13 @@
                     <div class="animated fadeInDown delay-02" data-animation="fadeInDown" data-animation-delay="02">
                     <div class="row align-items-stretch">
                         <a href="#" class="h-50 w-100 p-0 col-lg-5-5 col-sm-12 mr-4 mb-4 dc-box">
-                            <div class="box">
-                                <span class="d-block text-title">0.11um CI111</span>
-                                <span class="d-block">2020.01.12</span>
+                            <div class="box-sm">
+                                <span class="d-block text-title pl-3">HV CMOS_HD180IEL6</span>
                             </div>
                         </a>
                         <a href="#" class="h-50 w-100 p-0 col-lg-5-5 col-sm-12 mb-4 dc-box">
-                            <div class=" box">
-                                <span class="d-block text-title">0.11um CI1111</span>
-                                <span class="d-block">2020.01.12</span>
+                            <div class="box-sm">
+                                <span class="d-block text-title pl-3">CIS_HC130SFN</span>
                             </div>
                         </a>
                     </div>
@@ -128,16 +124,30 @@
                     </div>
                     <div class="animated fadeInLeft delay-03" data-animation="fadeInLeft" data-animation-delay="03">
                     <div class="row align-items-stretch">
-                        <a href="#" class="w-100">
-                            <div class="box bt-3-r m-h-190">
-                                <h5 class="pb-3 mb-3 bb-1-6">한줄 공지사항 노출</h5>
-                                <span style="position: absolute; bottom: 15px;" class="d-block bd-date">2020.01.12 ~ 2020.03.30</span>
-                                <span style="position: absolute; bottom: 15px; right: 15px;" class="bd-view">48</span>
+
+                            <div class="bt-3-r w-100">
+                                <a href="#">
+                                    <h5 class="p-4 m-0 bb-1-6">5월 Newsletter
+                                        <i class="mdi mdi-chevron-right-circle-outline f-right"></i>
+                                    </h5>
+                                </a>
+                                <!--<a href="#">
+                                     <h5 class="p-4 m-0 bb-1-6">6월 Newsletter
+                                         <i class="mdi mdi-chevron-right-circle-outline f-right"></i>
+                                     </h5>
+                                 </a>
+                                  <a href="#">
+                                     <h5 class="p-4 m-0">7월 Newsletter
+                                         <i class="mdi mdi-chevron-right-circle-outline f-right"></i>
+                                     </h5>
+                                 </a>-->
                             </div>
-                        </a>
+
+
                     </div>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>

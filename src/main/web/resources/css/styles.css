@@ -228,7 +228,7 @@
 
 
 /*document&notice*/
-.text-title{ font-size: 17px; font-weight: 800; letter-spacing: -0.1rem;}
+.text-title{ font-size: 15px; font-weight: 800; letter-spacing: -0.1rem;}
 
 
 
@@ -578,7 +578,7 @@ h7.s-title{font-weight: bold;}
 .site_close:after { content: ""; position: absolute; right:45%; top: 0; width: 2px; height: 100%; background: #ccc; transform: rotate(-45deg);}
 
 
-.ellipsis{ display: inline-block; width: 900px; text-overflow: ellipsis;white-space: nowrap; overflow: hidden;  margin: 0;}
+.ellipsis{ display: inline-block; width: 100%; text-overflow: ellipsis;white-space: nowrap; overflow: hidden;  margin: 0;}
 .ellipsis-3{ display: inline-block; width: 300px; text-overflow: ellipsis;white-space: nowrap; overflow: hidden;  margin: 0;}
 
 
